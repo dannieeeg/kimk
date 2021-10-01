@@ -1,0 +1,20 @@
+.grid{
+    border: black;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+
+}
+
+.banner{
+    background-color: bisque;
+    padding-left: 300px;
+}
+
+.h2 .h3{
+    justify-content: center;
+    align-items: center;
+}
